@@ -6,3 +6,15 @@
 #header {
     text-align: center;
 }
+
+.linkLeft {
+    float:left;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.linkRight {
+    float:right;
+    padding-left: 50px;
+    padding-right: 50px;
+}
