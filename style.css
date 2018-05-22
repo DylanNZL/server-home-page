@@ -7,6 +7,18 @@
     text-align: center;
 }
 
+#footer {
+    padding-left: 50px;
+    padding-right: 50px;
+}
+#foot{
+    text-align: center;
+}
+
+.card {
+    height: 695px;
+    text-align:justify;
+}
 .linkLeft {
     float:left;
     padding-left: 50px;
